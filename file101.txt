@@ -1,0 +1,7 @@
+total 36
+-rw-rw-r-- 1 ubuntu ubuntu    14 Mar  5 18:09 README.md
+drwxrwxr-x 2 ubuntu ubuntu  4096 Mar  5 18:35 sample2
+-rw-rw-r-- 1 ubuntu ubuntu    21 Mar  5 18:35 ravi
+-rw-rw-r-- 1 ubuntu ubuntu 19829 Mar  6 16:29 file1.txt
+-rw-rw-r-- 1 ubuntu ubuntu    13 Mar  6 16:37 file2.txt
+-rw-rw-r-- 1 ubuntu ubuntu     0 Mar  6 16:49 file101.txt
