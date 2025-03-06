@@ -1,0 +1,1000 @@
+   61  ls
+   62  ls
+   63  pwd
+   64  ls
+   65  cat > file1
+   66  ls
+   67  ls -l
+   68  mkdir DIRECTORY
+   69  LS -L
+   70  ls -l
+   71  ls -la
+   72  ls -- help
+   73  ls --help
+   74  0
+   75  ls -l -t
+   76  ls -l--r
+   77  ls -l -r
+   78  ls -l -t -r
+   79  ls
+   80  touch file1.txt
+   81  ls
+   82  ls -ltr
+   83  man ls
+   84  man pwd
+   85  ll
+   86  clear
+   87  touch .file4.txt
+   88  ls
+   89  ls --all
+   90  ls --a
+   91  ls -a
+   92  ls -al
+   93  alias
+   94  egrep
+   95  la
+   96  ls -lrt
+   97  lr
+   98  alias lr = 'ls -r'
+   99  alias
+  100  alias lr='ls -r'
+  101  lr
+  102  egrep
+  103  grep --help
+  104  q
+  105  cd directory
+  106  ls
+  107  cd DIRECTORY
+  108  LS
+  109  ls
+  110  cd..
+  111  cd ..
+  112  mkdir directory12
+  113  ls
+  114  cd directory12
+  115  ls
+  116  pwd
+  117  cd ..
+  118  pwd
+  119  cd ..
+  120  pwd
+  121  ls
+  122  ls --a
+  123  ls -a
+  124  pwd
+  125  cd dir2
+  126  cd ../../..
+  127  pwd
+  128  cd ./home/ubuntu/dir2
+  129  pwd
+  130  cd ./home
+  131  ls
+  132  pwd
+  133  cd /home
+  134  pwd
+  135  ls
+  136  cd ubuntu/directory12
+  137  pwd
+  138  ls
+  139  cd ..
+  140  pwd
+  141  ls -lrt
+  142  ls -a
+  143  ls
+  144  tree
+  145  sudo apt install tree
+  146  sudo snap install tree
+  147  tree
+  148  rmdir snap
+  149  sudo snap remove tree
+  150  rmdir snap
+  151  ls
+  152  rm file1.txt 
+  153  ls
+  154  touch file{1..19}.txt
+  155  ls
+  156  rm file{1..19}.txt
+  157  ls
+  158  pwd
+  159  touch file{1..3}.txt
+  160  ls
+  161  tree
+  162  ls
+  163  cd ~
+  164  pwd
+  165  cd dir1/dir2/dir3/
+  166  pwd
+  167  cd ~
+  168  pwd
+  169  tree
+  170  cp ./file1.txt  ./dir1
+  171  tree
+  172  cp ./dir1/file1.txt ./dir1/dir2
+  173  tree
+  174  cp ./dir1/file1.txt ./dir1/dir2/dir3
+  175  tree
+  176  tree -r
+  177  cp ~/dir1/file1.txt ~/dir5/file11.txt
+  178  tree
+  179  help
+  180  -p
+  181  ls
+  182  tree
+  183  ls -a
+  184  cd dir5
+  185  ls
+  186  cd ..
+  187  ls
+  188  ls -a
+  189  tree
+  190  mv ./file2.txt ~/dir5/dir6
+  191  tree
+  192  mv ./file3.txt ~/dir5/dir6/dir7/dir8/file22.txt
+  193  tree
+  194  rm *
+  195  tree
+  196  rm -d dir1
+  197  rm -r dir1
+  198  rm -r dir5
+  199  tree
+  200  rm -r directory12
+  201  mkdir dir1 dir2 dir3
+  202  touch file{1..3}.txt
+  203  tree
+  204  mv ./file1.txt ./dir1
+  205  mv ./file2.txt ./dir2
+  206  mv ./file3.txt  ./dir3
+  207  tree
+  208  mv ./dir3/file3.txt ./dir3/file33.txt
+  209  tree
+  210  cp -r ./dir1 ./dir2/
+  211  tree
+  212  mv ./dir3 ./dir2/
+  213  tree
+  214  pwd
+  215  cd directory12
+  216  touch file{1..12}.txt
+  217  cd ..
+  218  pwd
+  219  sudo apt tree
+  220  sudo apt install tree
+  221  sudo apt update tree
+  222  sudo apt tree
+  223  sudo apt update
+  224  sudo apt install tree
+  225  tree
+  226  ls -lrt
+  227  cd directory12
+  228  ls -lrt
+  229  cd ..
+  230  ls -a
+  231  ls -art
+  232  ls -al
+  233  ls -lrt
+  234  ls --help
+  235  ls -f
+  236  ls -lrt
+  237  tree
+  238  pwd
+  239  cd  /home/ubuntu/directory12/
+  240  pwd
+  241  ls
+  242  ls -a
+  243  cd ..
+  244  ls -a
+  245  pwd
+  246  cd ./dir2
+  247  pwd
+  248  cd ../../..
+  249  pwd
+  250  cd /home/ubuntu/dir2
+  251  cd ..
+  252  ls
+  253  tree --help
+  254  tree --a
+  255  tree -a
+  256  tree -d
+  257  tree -f
+  258  rm /home/ubuntu/directory12/file1.txt
+  259  tree
+  260  cd /home/ubuntu/directory12/
+  261  rm *
+  262  ls
+  263  cd ..
+  264  ls
+  265  tree
+  266  rm dir2
+  267  rmdir dir2
+  268  mkdir dir2 dir3
+  269  ls
+  270  rm -r dir2
+  271  tree
+  272  mkdir dr5 dr6
+  273  mkdir dr8/dr9
+  274  tree
+  275  cd ./dir3
+  276  touch file{1..12}.txt
+  277  cd ..
+  278  rmdir dir3
+  279  rm -r dir
+  280  rm -r dir3
+  281  ls
+  282  ls lrt
+  283  ls -lrt
+  284  tree
+  285  rm -r dr5 dr6
+  286  tree
+  287  rm *
+  288  ls
+  289  mkdir dir1
+  290  ls
+  291  mkdir ./dir1/dir2
+  292  ls
+  293  tree
+  294  rm -r dir1
+  295  tree
+  296  mkdir --parents ./dir1/dir2/dir3
+  297  tree
+  298  mkdir -p ./dir5/dir6/dir7/dir8
+  299  tree
+  300  pwd
+  301  ls
+  302  touch file{1..5}.txt
+  303  ls
+  304  cd dir2
+  305  cd /home
+  306  pwd
+  307  cd /home/ubuntu/directory12
+  308  pwd
+  309  cd ..
+  310  pwd
+  311  uname
+  312  uname -a
+  313  PWD
+  314  pwd
+  315  cd ../../../..
+  316  pwd
+  317  cd ..
+  318  cd .
+  319  pwd
+  320  cd /
+  321  ls
+  322  ll
+  323  --help
+  324  cd /home/ubuntu/dir2
+  325  pwd
+  326  cd ..
+  327  pwd
+  328  ls
+  329  tree
+  330  cd ~
+  331  pwd
+  332  cd 
+  333  pwd
+  334  cd ../../..
+  335  pwd
+  336  tree
+  337  pwd
+  338  ls
+  339  tree
+  340  exit
+  341  ls
+  342  tree
+  343  stat file1.txt
+  344  stat dir1
+  345  stat dir1/file1.txt
+  346  ls
+  347  tree
+  348  dir 1
+  349  cd .. tree1
+  350  cd ..
+  351  tree
+  352  ubantu
+  353  cd ubuntu/dir1
+  354  cat file1.txt
+  355  cat >> file1.txt
+  356  TREE
+  357  tree
+  358  file1.txt
+  359  vi file1.txt
+  360  TREE
+  361  tree
+  362  cd ..
+  363  tree
+  364  vi dir1/file1.txt 
+  365  exit
+  366  lsblk
+  367  exit
+  368  ls
+  369  man
+  370  man man
+  371  uname
+  372  uname -a
+  373  hostname
+  374  uptime
+  375  top
+  376  colour
+  377  ps
+  378  ps --help
+  379  man ps
+  380  htop
+  381  ps -ef
+  382  ps
+  383  top
+  384  lsb -release -a
+  385  lsb_release -a
+  386  uptime
+  387  ps -ef
+  388  free
+  389  free -h
+  390  free --help
+  391  htop
+  392  ls
+  393  tree
+  394  cd dir1
+  395  ls
+  396  cat file1.txt 
+  397  touch harsha harshitha padma
+  398  tree
+  399  ls
+  400  ls h*
+  401  cd ../../../..
+  402  ls
+  403  cd proc
+  404  ls
+  405  cat meminfo
+  406  ls m*
+  407  ls
+  408  cat uptime
+  409  cd ..
+  410  cd ../../..
+  411  cd home/ubuntu/dir1
+  412  ls
+  413  tree
+  414  cd ..
+  415  tree
+  416  cat dir1/file1.txt
+  417  cat /proc/meminfo
+  418  uptime
+  419  cat /proc/uptime
+  420  sudo su
+  421  cat /prop/cpuinfo
+  422  cat /proc/cpuinfo 
+  423  cat /prop/keys
+  424  cat /proc/keys
+  425  cd ../../..
+  426  ls
+  427  cd proc
+  428  ls
+  429  cd ..
+  430  cd home/ubuntu/
+  431  ls
+  432  tree
+  433  cat dir1/file1.txt 
+  434  cat ./dir1/file1.txt 
+  435  du
+  436  du -h
+  437  du -a
+  438  df
+  439  df -h
+  440  fat 32
+  441  fat
+  442  w
+  443  clear
+  444  who
+  445  who -a
+  446  who -r
+  447  who -b -H
+  448  who -u
+  449  whoami
+  450  w
+  451  users
+  452  w -h
+  453  ls
+  454  tree
+  455  pwd
+  456  cat dir1/file1.txt 
+  457  cat >> dir1/file1.txt
+  458  cat dir1/file1.txt
+  459  vi dir1/file1.txt 
+  460  cat dir1/file1.txt 
+  461  hostname
+  462  uname
+  463  uname-a
+  464  uname -a
+  465  uptime 
+  466  uptime -h
+  467  uptime -p
+  468  uptime -s
+  469  uptime -v
+  470  uptime -V
+  471  free
+  472  free --help
+  473  free -g
+  474  free -m
+  475  free -h
+  476  free -l
+  477  lscpu
+  478  ls --help
+  479  lsmem
+  480  lsmem -h
+  481  clear
+  482  whoami
+  483  w
+  484  w -h
+  485  w
+  486  last
+  487  users
+  488  whoami
+  489  v 
+  490  w
+  491  exit
+  492  echo HI HARSHA HOW R U
+  493  echo I AM FINE   U
+  494  exit
+  495  clear
+  496  ls
+  497  whoami
+  498  lsmem -h
+  499  clear
+  500  tree
+  501  cat dir1/file1.txt 
+  502  wc dir1/file1.txt 
+  503  vi dir1/file1.txt 
+  504  wc -l dir1/file1.txt 
+  505  wc -w dir1/file1.txt
+  506  wc -l dir1/file1.txt
+  507  wc -c dir1/file1.txt
+  508  wc dir1/file1.txt dir2/file2.txt
+  509  cat dir2/file2.txt
+  510  cat dir1/file1.txt
+  511  cp dir1/file1.txt dir2/file2.txt
+  512  wc dir1/file1.txt dir2/file2.txt
+  513  vi dir2/file2.txt 
+  514  wc dir1/file1.txt dir2/file2.txt
+  515  grep --help
+  516  wc --help
+  517  clear
+  518  wc --help
+  519  wc dir1/file1.txt dir2/file2.txt
+  520  cat dir1/file1.txt 
+  521  grep hars ./dir1/file1.txt 
+  522  grep -i hars ./dir1/file1.txt
+  523  grep -r hars ./
+  524  grep -ir hars ./
+  525  grep -ir a ./
+  526  clear
+  527  grep harsha ./dir1/file1.txt 
+  528  grep harsha ./
+  529  grep -r harsha
+  530  grep -v harsha ./dir1/file1.txt 
+  531  grep -vi harsha ./dir1/file1.txt
+  532  grep -vir harsha ./dir1/file1.txt
+  533  grep -o harsha ./dir1/file1.txt 
+  534  grep -ip harsha ./dir1/file1.txt 
+  535  grep -io harsha ./dir1/file1.txt
+  536  grep -ion harsha ./dir1/file1.txt
+  537  cat ./dir1/file1.txt 
+  538  grep -ei harsha -ei hiriyur ./dir1/file1.txt 
+  539  grep -e -i harsha -e -i hiriyur ./dir1/file1.txt
+  540  grep -e harsha -e hiriyur ./dir1/file1.txt
+  541  grep -i -e harsha -e hiriyur ./dir1/file1.txt
+  542  vi ./dir1/file1.txt 
+  543  grep -i -e harsha -e hiriyur ./dir1/file1.txt
+  544  grep "[aeiou]" ./dir1/file1.txt 
+  545  grep -vo harsha ./dir1/file1.txt 
+  546  grep -v harsha ./dir1/file1.txt
+  547  grep -o harsha ./dir1/file1.txt
+  548  clear
+  549  history
+  550  ls
+  551  tree
+  552  pwd
+  553  tree
+  554  history > history.txt
+  555  history > history.txt | cat history
+  556  history > history.txt | cat history.txt
+  557  clear
+  558  pwd
+  559  tree
+  560  cp ./history.txt ./dir1/
+  561  tree
+  562  clear
+  563  wc -l
+  564  wc -l ./history.txt
+  565  wc ./history
+  566  tree
+  567  wc ./history.txt ./dir1/file1.txt ./dir1/harshitha
+  568  clear
+  569  mkdir practice
+  570  tree
+  571  cat ./practice/file.txt
+  572  touch ./practice/file.txt
+  573  cd practice
+  574  vi file.txt 
+  575  cat file.txt 
+  576  grep this ./file.txt 
+  577  grep -i this ./file.txt 
+  578  grep -r this
+  579  grep -i this
+  580  clear
+  581  cat file.txt 
+  582  grep -i this ./file.txt 
+  583  ls -;rt
+  584  ls -lrt
+  585  clear
+  586  cat file.txt 
+  587  grep -i this ./file.txt 
+  588  grep -v this file.txt 
+  589  grep -iv this file.txt 
+  590  grop -o this file.txt 
+  591  grep -o this file.txt 
+  592  grep -o this file.txt | wc
+  593  grep -o this file.txt | wc -l
+  594  grep -oi this ./file.txt 
+  595  grep -oi this ./file.txt  | wc -l
+  596  grep -oi this ./file.txt | wc
+  597  clear
+  598  cat file.txt 
+  599  grep -i is file.txt 
+  600  grep -wi is file.txt 
+  601  grep -n -i is file.txt
+  602  grep -nwi is file.txt
+  603  grep -e this -e the ./file.txt 
+  604  grep -i -e this -e the ./file.txt 
+  605  grep -ei this -e the ./file.txt 
+  606  grep -ie this -e the ./file.txt 
+  607  clear
+  608  history
+  609  clear
+  610  cat file.txt 
+  611  grep -i t* ./file.txt 
+  612  grep -i ^t ./file.txt 
+  613  grep -i $e ./file.txt 
+  614  grep -i e$ ./file.txt 
+  615  grep -i e.$ ./file.txt 
+  616  grep -iw ^t ./file.txt
+  617  grep -i ^t ./file.txt
+  618  clear
+  619  cat file.txt 
+  620  grep "[aeiou]" ./file.txt 
+  621  grep -i "[aeiou]" ./file.txt 
+  622  grep -i "[a-m]" ./file.txt 
+  623  grep -i "[a-m]" ./file.txt | time
+  624  grep -i "[a-m]" ./file.txt 
+  625  grep -i "[o]" ./file.txt 
+  626  grep -i "[a-m]" ./file.txt 
+  627  time
+  628  grep -i "[a-m]" ./file.txt | time
+  629  ls time
+  630  time --help
+  631  clear
+  632  tree
+  633  cd ./
+  634  cd ../../../
+  635  tree
+  636  ls
+  637  cd ./home/
+  638  ls
+  639  cd ./ubuntu/
+  640  ls
+  641  ls -lsrt
+  642  clear
+  643  ls
+  644  cd ./practice
+  645  cat file.txt 
+  646  clear
+  647  cat file.txt 
+  648  sed 's/this/that/g' file.txt
+  649  sed 's/this/that/g' 
+  650  sed 's/this/that/g' file.txt
+  651  sed 's/this/that/gI' file.txt
+  652  sed 's/that/THIS/gI' file.txt 
+  653  clear
+  654  cat file.txt 
+  655  clear
+  656  exit
+  657  clear
+  658  cat > harsha.txt
+  659  ls
+  660  cat harsha.txt 
+  661  cat >> harsha.txt 
+  662  cat harsha.txt 
+  663  cat > jaipur
+  664  cat > harsha.txt 
+  665  cat harsha.txt 
+  666  vi harsha.txt 
+  667  cat >> harsha.txt 
+  668  clear
+  669  ls
+  670  tree
+  671  cat ./dir1/harsha 
+  672  cd dir1
+  673  ls
+  674  cat harsha
+  675  cat > harsha
+  676  cat harsha
+  677  sed '2d' harsha
+  678  sed -n '2p' harsha
+  679  sed '2p' harsha
+  680  sed -n '2p' harsha
+  681  sed -n '2d' harsha
+  682  claer
+  683  clear
+  684  cat harsha
+  685  grep source harsha
+  686  grep source harsha | sed '1s/source/harsha/g' harsha
+  687  sed '1s/unix/harsha/gI' harsha
+  688  sed 's/unix/harsha/gI' harsha
+  689  sed '3s/unix/harsha/gI' harsha
+  690  clear
+  691  sed '2s/unix/harsha/gI' harsha
+  692  sed '3s/unix/harsha/gI' harsha
+  693  sed '4s/unix/harsha/3gI' harsha
+  694  sed '4s/unix/harsha/3I' harsha
+  695  clear
+  696  cat harsha
+  697  sed 's/.*/source/' harsha
+  698  sed '1s/.*/source/' harsha
+  699  sed '1s/.*/bel bengaluru/' harsha
+  700  grep source harsha | sed '1s/.*/harsha/g' harsha
+  701  grep source harsha | sed 's/.*/harsha/g' harsha
+  702  clear
+  703  exit
+  704  clear
+  705  tree
+  706  clear
+  707  ssh
+  708  wget --help
+  709  curl --help
+  710  wget https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251639_7ed26d28139143f38c58992680c214a5
+  711  tree
+  712  rm AutoDL\?BundleId\=251639_7ed26d28139143f38c58992680c214a5 
+  713  echo "# test-devops" >> README.md
+  714  ls
+  715  rm README.md 
+  716  mkdir test
+  717  cd test
+  718  echo "# test-devops" >> README.md
+  719  git init
+  720  git add README.md
+  721  git commit -m "first commit"
+  722  git branch -M main
+  723  git remote add origin https://github.com/harsha-d-git/test-devops.git
+  724  git push -u origin main
+  725  touch file12.txt
+  726  ls
+  727  tree
+  728  cp ./ file12.txt ./ file22.txt 
+  729  cp ./file12.txt ./file22.txt 
+  730  tree
+  731  ls
+  732  mv ./file12.txt ./file25.txt
+  733  ls
+  734  du
+  735  du -h
+  736  ls -lrt
+  737  ls -lrth
+  738  ls -a
+  739  clear
+  740  ls -lrt
+  741  ls --help
+  742  cd ..
+  743  pwd
+  744  cd ubuntu
+  745  pwd
+  746  tree
+  747  mv ./dir1/padma ./
+  748  tree
+  749  whoami
+  750  ls -lrt
+  751  lsb release -a
+  752  lsb
+  753  ps -ef
+  754  ps
+  755  htop
+  756  ps
+  757  top
+  758  ps
+  759  vi file2
+  760  cd ./
+  761  pwd
+  762  cd ~
+  763  pwd
+  764  cd ~
+  765  ls -lrt
+  766  ls --help
+  767  ls -s
+  768  df
+  769  df -h
+  770  ls
+  771  tree
+  772  rm *
+  773  rm -r *
+  774  tree
+  775  ls -a
+  776  ls
+  777  ls -a
+  778  rm .file4.txt 
+  779  rm .viminfo 
+  780  clear 
+  781  mkdir test1
+  782  cd test11
+  783  cd test1/
+  784  touch file1.txt
+  785  vi file1.txt 
+  786  cat file1.txt 
+  787  ls
+  788  cd test1/
+  789  ls
+  790  cd ..
+  791  mkdir test-github
+  792  ls
+  793  cd test-github/
+  794  echo "# test-devops" >> README.md
+  795  git init
+  796  git add README.md
+  797  git commit -m "first commit"
+  798  git branch -M main
+  799  git remote add origin https://github.com/harsha-d-git/test-devops.git
+  800  git push -u origin main
+  801  ls
+  802  vi README.md 
+  803  git push
+  804  cat README.md 
+  805  git push
+  806  git commit -m "address"
+  807  git commit -m "address" README.md 
+  808  git push
+  809  ls
+  810  cd ..
+  811  ls
+  812  touch testfile1
+  813  cat > testfile1
+  814  mv ./testfile1 ./test-github/
+  815  ls
+  816  tree
+  817  cd test-github/
+  818  git stauts
+  819  git status
+  820  git add testfile1 
+  821  git commit testfile1 
+  822  git commit -m "add file" testfile1 
+  823  git push
+  824  clear
+  825  cd ..
+  826  cd -
+  827  cd ../../..
+  828  pwd
+  829  cd -
+  830  cat > testfile2
+  831  git add testfile2
+  832  git status
+  833  git commit -m"adding second file" testfile2
+  834  git push
+  835  git pull
+  836  ls
+  837  cat bel id card.txt
+  838  cat bel\ id\ card.txt 
+  839  ls
+  840  rm bel\ id\ card.txt 
+  841  git push
+  842  git commit -m "removing" 
+  843  git commit -m "remove" bel\ id\ card.txt 
+  844  git push
+  845  git clone https://github.com/harsha-d-git/test2.git
+  846  ls
+  847  tree
+  848  rm -r test-github/test2
+  849  ls
+  850  tree
+  851  mkdir test 25
+  852  cd test25
+  853  cd test 25
+  854  ls
+  855  cd 25
+  856  ls
+  857  cd 25
+  858  ls
+  859  cd test2
+  860  ls
+  861  treeeee
+  862  cat README.md 
+  863  tree
+  864  cd ~
+  865  tree
+  866  rm -r test
+  867  tree
+  868  cd ./25/test2
+  869  ls -a
+  870  cd -
+  871  cd test-github
+  872  ls -a
+  873  tree
+  874  cd -
+  875  cd 25
+  876  ls
+  877  cd test2
+  878  ls
+  879  cat > file3
+  880  ls
+  881  git add file3
+  882  git commit -m"ravi are you there" file3
+  883  git push
+  884  git --help
+  885  ls
+  886  git rm file3
+  887  git commit -m "removed file3"
+  888  git push
+  889  git --help
+  890  ls
+  891  ls -a
+  892  mkdir sample1 sample2
+  893  touch ./sample1/bel  ./sample2/ecil
+  894  tree
+  895  ls
+  896  git --help
+  897  ls
+  898  tree
+  899  git commit -m "folder"
+  900  git add sample1 sample2
+  901  git commit
+  902  git commit -m "folder" sample1 sample2
+  903  git push
+  904  git mv ./sample1/bel ./sample2
+  905  tree
+  906  git commit -m "moved" 
+  907  git push
+  908  tree
+  909  cd sample1
+  910  cat > hello
+  911  git commit -m "hello"
+  912  cd ..
+  913  git commit -m "hello"
+  914  tree
+  915  git add ./sample1/hello
+  916  git commit -m "hello" ./sample1/hello
+  917  git push
+  918  git pull
+  919  ls
+  920  cat sample2/bel
+  921  cat ravi
+  922  git pull
+  923  ls
+  924  cat Linux_ops.pdf 
+  925  git rm Linux_ops.pdf 
+  926  git commit -m "pdf removed"
+  927  git push
+  928  ls
+  929  history
+  930  exit
+  931  ls
+  932  cd 25
+  933  git clone https://github.com/harsha-d-git/test2.git
+  934  ls
+  935  tree
+  936  cd test1
+  937  cat file1.txt 
+  938  sed -n "2$p" file1.txt
+  939  sed -n "$-2p" file1.txt 
+  940  sed -n "$p" file1.txt 
+  941  sed -n "p" file1.txt 
+  942  sed -n "[$-1]p" file1.txt 
+  943  sed -n "$p" file1.txt 
+  944  vi file1.txt 
+  945  sed -n '$!N; $!P; $!D; $!q; $p' file1.txt 
+  946  sed -n '$p' file1.txt 
+  947  sed -n '$-1p' file1.txt 
+  948  sed -n '[$-1]p' file1.txt 
+  949  sed -n '\d[$-1]pd\' file1.txt 
+  950  sed -n '\b[$-1]pb\' file1.txt 
+  951  sed -n '$p' file1.txt 
+  952  sed -n 'p' file1.txt 
+  953  sed -n '3p' file1.txt 
+  954  cat -n file1.txt 
+  955  sed '5p' file1.txt 
+  956  sed -n '[2-$]p' file1.txt 
+  957  sed -n '2-$p' file1.txt 
+  958  sed -n '2$p' file1.txt 
+  959  sed -n '$p' file1.txt 
+  960  sed -n '$-2p' file1.txt 
+  961  sed -n '\$-2p\' file1.txt 
+  962  sed -n 'd\$-2p\d' file1.txt 
+  963  sed -n 'b\$-2p\b' file1.txt 
+  964  sed -n '\b$-2pb\' file1.txt 
+  965  sed -n '2p' file1.txt 
+  966  history
+  967  clear
+  968  sed -n '$p' file1.txt 
+  969  sed -n '1,$p' file1.txt 
+  970  sed -n '$-1,$p' file1.txt 
+  971  sed -n '$1,$p' file1.txt 
+  972  sed -n '5,$p' file1.txt 
+  973  sed -n '5$p' file1.txt 
+  974  sed -n '2$p' file1.txt 
+  975  sed -n '1.$p' file1.txt 
+  976  sed -n '11,$p' file1.txt 
+  977  head -1
+  978  head 1 file1.txt 
+  979  head 4 file1.txt 
+  980  head file1.txt 
+  981  head2 file1.txt 
+  982  head -2 file1.txt 
+  983  tail -2 file1.txt 
+  984  tail -2 | head -1 file1.txt 
+  985  tail -2 file1.txt | head -1 file1.txt 
+  986  tail -2 file1.txt | head -1 
+  987  clear
+  988  exit
+  989  clear
+  990  history
+  991  echo $?
+  992  echo $
+  993  echo ?
+  994  clear
+  995  exit
+  996  CLEAR
+  997  clear
+  998  ls
+  999  cd 25
+ 1000  ls
+ 1001  git pull
+ 1002  cd sharath/
+ 1003  git pull
+ 1004  cd ..
+ 1005  ls
+ 1006  rm -r sharath/
+ 1007  ls
+ 1008  git branch
+ 1009  cd bel
+ 1010  git branch
+ 1011  cd ../test2
+ 1012  git branch
+ 1013  top
+ 1014  clear
+ 1015  ls
+ 1016  tree
+ 1017  rm -r test1
+ 1018  tree
+ 1019  mkdir test1
+ 1020  cd test1
+ 1021  touch file1.txt
+ 1022  cd ..
+ 1023  clear
+ 1024  tree
+ 1025  cd test1
+ 1026  ls
+ 1027  cat file1
+ 1028  cat file1.txt 
+ 1029  cat > file1.txt 
+ 1030  awk '{print$2}' file1.txt 
+ 1031  sed -n '$n-1' file1.txt 
+ 1032  sed -n '$N-1' file1.txt 
+ 1033  awk '{print$N}' file1.txt
+ 1034  awk '{print$NF}' file1.txt
+ 1035  awk '{print$N-1}' file1.txt
+ 1036  awk '{print$NF-1}' file1.txt
+ 1037  awk '{print$(NF-1)}' file1.txt
+ 1038  sed -n '$(N-1)' file1.txt
+ 1039  clear
+ 1040  cd ..
+ 1041  tree
+ 1042  cd 25
+ 1043  cd bel
+ 1044  ls -a
+ 1045  cd ..
+ 1046  cd test2
+ 1047  ls -a
+ 1048  touch file1.txt file2.txt
+ 1049  git add .
+ 1050  git commit -m "file1 & 2 added"
+ 1051  cat > file1.txt
+ 1052  cat file1.txt
+ 1053  git status
+ 1054  git restore file1.txt 
+ 1055  cat file1.txt 
+ 1056  git status
+ 1057  git push
+ 1058  git config --global credential.helper store
+ 1059  git push
+ 1060  history > file1.txt 
