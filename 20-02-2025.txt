@@ -1,0 +1,37 @@
+NOTES
+rm - Delete files/directories
+
+Use the rm command to delete files and directories. But rm cannot simply delete a directory. Use “rm -r” to delete a directory. In this case, it deletes both the folder and the files in it.
+    To remove/delete a file     
+        rm file_name 
+    To remove/delete a Directory    
+        rm -r directory
+
+cp - Copy the file from one location to another 
+cp command copies files and directories through the command line. 
+cp [OPTIONS] <SOURCE> <DESTINATION>
+ 
+To copy to a different location
+cp file1.txt /home/ubuntu/Dir1
+To copy file and rename
+cp file1.txt file2.txt
+Copy a directory recursively
+cp -r dir1/ dir2/
+Copy multiple files to  directory
+cp file1.txt file2.txt file3.txt file4.txt /home/user/Dir1/
+Ask before overriting file (Prompt y/n)
+cp -i file1.txt /home/user/Dir1/
+mv - Rename or Move the file from one location to another 
+
+mv command to move files and directories through the command line.
+We can also use the mv command to rename a file/directory.
+mv [OPTIONS] <SOURCE> <DESTINATION>
+To rename a file/directory
+
+mv <old_filename> <new_filename>
+mv <old_directory> <new_directory>
+To move to a different location (cut and paste
+
+mv file1.txt /home/ubuntu/dir1/
+Move multiple files to a directory
+mv file1.txt file2.txt file3.txt /home/user/backup/
